@@ -26,7 +26,6 @@
 💪 编程语言
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![JAVA Badge](https://img.shields.io/badge/Java-blue)
 ![SHEEL Badge](https://img.shields.io/badge/Sheel-blue)
